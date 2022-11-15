@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/consoles/static/css/main.54f04cb0.css",
+    "main.js": "/consoles/static/js/main.53d59c6a.js",
+    "static/js/787.4d5650fd.chunk.js": "/consoles/static/js/787.4d5650fd.chunk.js",
+    "static/media/metacritic-icon.svg": "/consoles/static/media/metacritic-icon.d060cd79b7676ec07897e07b9b2ad8f5.svg",
+    "index.html": "/consoles/index.html",
+    "main.54f04cb0.css.map": "/consoles/static/css/main.54f04cb0.css.map",
+    "main.53d59c6a.js.map": "/consoles/static/js/main.53d59c6a.js.map",
+    "787.4d5650fd.chunk.js.map": "/consoles/static/js/787.4d5650fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f04cb0.css",
+    "static/js/main.53d59c6a.js"
+  ]
+}
